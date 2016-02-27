@@ -1,0 +1,26 @@
+_repo: Rhymes-a-la-Mode_1645
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: The fortunate islands; The new millennium; Almae matres; Desiderium;
+  Rhymes a la mode; Art; Science; Cameos; The spinet.
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '1999-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1645'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry'
+title: Rhymes a la Mode
+url: http://www.gutenberg.org/ebooks/1645
