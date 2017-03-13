@@ -1,5 +1,8 @@
 _repo: Rhymes-a-la-Mode_1645
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 1645-h/images/coverb.jpg
 creator:
   author:
     agent_name: Lang, Andrew
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
 description: The fortunate islands; The new millennium; Almae matres; Desiderium;
   Rhymes a la mode; Art; Science; Cameos; The spinet.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1645#Rhymes-a-la-Mode
 gutenberg_bookshelf: Bibliomania
 gutenberg_issued: '1999-02-01'
 gutenberg_type: Text
